@@ -16,11 +16,3 @@ for index, row in df.iterrows():
 
 
 
-
-# for i in i, i < 40, i + 2):
-#     i = 1, 3, 5,
-#     row = df[i]
-#
-#     if row['col 5'] == '切削 品' & row['col 8'] == '3':
-#         buhinbango = row[i - 1]['col 3']
-#         print(i)
